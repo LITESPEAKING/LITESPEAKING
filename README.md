@@ -1,4 +1,8 @@
-# 👋 Salut, moi c'est **Ace Sky**
+# 👋 Salut, moi c'est **Ace Sky** aka **LITESPEAKING**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+</p>
 
 🚀 Bienvenue sur mon profil GitHub !
 
@@ -6,9 +10,9 @@
 
 ## 🧑‍💻 À propos de moi
 
-* 🔭 Je développe des projets en bas niveau et modernes
-* ⚡ Passionné par le code, la performance et la créativité
-* 🎯 Objectif : créer des projets puissants, propres et innovants
+* 🔭 Dev orienté **bas niveau & performance**
+* ⚡ Fan de code propre et optimisé
+* 🎯 Objectif : build des projets solides et stylés
 
 ---
 
@@ -17,7 +21,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=linux" title="Assembly / Low-level" />
+  <img src="https://img.shields.io/badge/ASM-LowLevel-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -27,20 +31,20 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=idea" title="JetBrains" />
+  <img src="https://skillicons.dev/icons?i=idea" />
 </p>
 
 ---
 
-## 📊 Stats GitHub
+## 🔥 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LITESPEAKING&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LITESPEAKING&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LITESPEAKING&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=LITESPEAKING&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LITESPEAKING&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LITESPEAKING&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -51,6 +55,15 @@
   <a href="mailto:Ace@acelooksky.fr">
     <img src="https://img.shields.io/badge/Email-Ace@acelooksky.fr-red?style=for-the-badge&logo=gmail" />
   </a>
+</p>
+
+---
+
+## 🎌 Vibe Anime
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="400"/>
 </p>
 
 ---
