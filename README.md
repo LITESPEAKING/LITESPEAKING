@@ -14,11 +14,12 @@
 
 ---
 
-## 🛠️ Languages
+## 🛠️ Languages & Techno
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,ts" />
-  <img src="https://skillicons.dev/icons?i=bun" title="Assembly" />
+  <img src="https://skillicons.dev/icons?i=bun" title="Bun" />
+  <img src="https://skillicons.dev/icons?i=arch" title="OS" />
 </p>
 
 ---
