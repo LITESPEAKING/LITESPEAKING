@@ -20,6 +20,8 @@
   <img src="https://skillicons.dev/icons?i=c,ts" />
   <img src="https://skillicons.dev/icons?i=bun" title="Bun" />
   <img src="https://skillicons.dev/icons?i=arch" title="OS" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL" />
+  <img src="https://skillicons.dev/icons?i=java" title="JAVA" />
 </p>
 
 ---
