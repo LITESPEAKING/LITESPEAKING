@@ -1,7 +1,7 @@
 # 👋 Ace Sky | LITESPEAKING
 
 <p align="center">
-  <img src="https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600"/>
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ## 🧑‍💻 About Me
 
 * ⚡ Dev **low-level & performance**
-* 🧠 Code en **C / TypeScript / ASM**
-* 🎯 Objectif : créer des projets puissants & clean
+* 🧠 C / TypeScript / Assembly
+* 🎯 Build des projets rapides & optimisés
 
 ---
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,ts" />
-  <img src="https://img.shields.io/badge/Assembly-LowLevel-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASM-Assembly-6E4C13?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 ---
@@ -33,16 +33,22 @@
 
 ## 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LITESPEAKING&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+<!-- Stats principal (fiable) -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LITESPEAKING&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LITESPEAKING&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
+<!-- Langages -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LITESPEAKING&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- STREAK FIX (ancienne URL cassée remplacée) -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=LITESPEAKING&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -50,13 +56,13 @@
 ## 🎌 Anime Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="300"/>
 </p>
 
 ---
