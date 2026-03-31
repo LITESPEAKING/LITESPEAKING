@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,ts" />
-  <img src="https://skillicons.dev/icons?i=bash" title="Assembly" />
+  <img src="https://skillicons.dev/icons?i=Assembly" title="Assembly" />
 </p>
 
 ---
@@ -34,15 +34,7 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LITESPEAKING&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=LITESPEAKING&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LITESPEAKING&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
