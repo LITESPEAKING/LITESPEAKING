@@ -58,7 +58,7 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:Ace@acelooksky.fr">
+  <a href="mailto:ace@acelooksky.fr">
     <img src="https://img.shields.io/badge/Email-Ace@acelooksky.fr-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
