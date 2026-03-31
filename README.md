@@ -1,77 +1,80 @@
-# 👋 Salut, moi c'est **Ace Sky** aka **LITESPEAKING**
+# 👋 Ace Sky | LITESPEAKING
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
-</p>
-
-🚀 Bienvenue sur mon profil GitHub !
-
----
-
-## 🧑‍💻 À propos de moi
-
-* 🔭 Dev orienté **bas niveau & performance**
-* ⚡ Fan de code propre et optimisé
-* 🎯 Objectif : build des projets solides et stylés
-
----
-
-## 🛠️ Langages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://img.shields.io/badge/ASM-LowLevel-blue?style=for-the-badge" />
+  <img src="https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif" width="600"/>
 </p>
 
 ---
 
-## ⚙️ Outils
+## 🧑‍💻 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=idea" />
-</p>
+* ⚡ Dev **low-level & performance**
+* 🧠 Code en **C / TypeScript / ASM**
+* 🎯 Objectif : créer des projets puissants & clean
 
 ---
 
-## 🔥 Stats GitHub
+## 🛠️ Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LITESPEAKING&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=LITESPEAKING&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://skillicons.dev/icons?i=c,ts" />
+  <img src="https://img.shields.io/badge/Assembly-LowLevel-blue?style=for-the-badge" />
+</p>
+
+---
+
+## ⚙️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,idea" />
+</p>
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LITESPEAKING&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LITESPEAKING&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=LITESPEAKING&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LITESPEAKING&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎌 Anime Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
 </p>
 
 ---
 
 ## 📫 Contact
 
-<p align="left">
+<p align="center">
   <a href="mailto:Ace@acelooksky.fr">
-    <img src="https://img.shields.io/badge/Email-Ace@acelooksky.fr-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Ace@acelooksky.fr-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-## 🎌 Vibe Anime
+## ✨ Quote
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="400"/>
-</p>
+> "The sky is not the limit — it's just the beginning." ☁️
 
 ---
 
-## ✨ Citation
-
-> "Le ciel n’est pas la limite — c’est juste le début." ☁️
-
----
-
-⭐ Merci d’être passé sur mon profil !
+⭐ Thanks for visiting
