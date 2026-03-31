@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,ts" />
-  <img src="https://skillicons.dev/icons?i=asm" title="Assembly" />
+  <img src="https://skillicons.dev/icons?i=bun" title="Assembly" />
 </p>
 
 ---
