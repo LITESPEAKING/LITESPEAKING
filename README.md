@@ -55,7 +55,7 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:ace@acelooksky.fr">
